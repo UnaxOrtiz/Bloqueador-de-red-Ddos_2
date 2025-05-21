@@ -1,6 +1,6 @@
 # 🛜Inhibidor🛜 
 > Herramienta modificada por Mr.robot2006
-> Herramienta original creada por XDeadHackerX
+
 
 <p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-2.0-a3a8b7.svg?style=for-the-badge"/></p>
 
